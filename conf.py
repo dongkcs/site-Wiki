@@ -24,11 +24,11 @@ for_manual_build_trigger = 1
 site_name = "無知識 | 三無計劃"
 site_logo = "${static_prefix}android-chrome-512x512.png"
 site_build_date = "2017-06-29T12:00+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "熊猫小A的Wiki站点"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'wiki']
+author = "东"
+email = "dongkcs@163.com"
+author_homepage = "https://www.imalan1.cn"
+description = "东的Wiki站点"
+key_words = ['Maverick', '东', 'Galileo', 'wiki']
 language = 'zh-CN'
 
 valine = {
