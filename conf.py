@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "https://wiki.imalan.cn/"
+site_prefix = "/site-Wiki/"
 source_dir = "../src/"
 build_dir = "../dist/"
 template = {
