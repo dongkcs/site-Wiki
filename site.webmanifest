@@ -3,12 +3,12 @@
     "short_name": "\u718a\u732b\u5c0fA",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=PY43YeeEKx",
+            "src": "/favicon.ico?v=PY43YeeEKx",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=PY43YeeEKx",
+            "src": "/favicon.ico?v=PY43YeeEKx",
             "sizes": "512x512",
             "type": "image/png"
         }
