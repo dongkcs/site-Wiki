@@ -4,13 +4,13 @@ title: 关于
 slug: about
 date: 2020-01-01 21:32
 status: publish
-author: 熊猫小A
+author: 东A
 categories:
 comment: false 
 tags: 
 ---
 
-这里是熊猫小A的个人Wiki，我在这里记录自己遇到与解决的技术问题，以及日常折腾笔记。希望能给你带来一点帮助。
+这里是东的个人Wiki，我在这里记录自己遇到与解决的技术问题，以及日常折腾笔记。希望能给你带来一点帮助。
 
 ---
 
@@ -18,6 +18,5 @@ tags:
 
 ------
 
-邮件：hi#imalan.cn (请使用 @ 替换 #)
+邮件：dongkcs@163.com
 
-Telegram：[AlanDecode](https://t.me/alandecode)
