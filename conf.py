@@ -26,7 +26,7 @@ site_logo = "${static_prefix}android-chrome-512x512.png"
 site_build_date = "2017-06-29T12:00+08:00"
 author = "东"
 email = "dongkcs@163.com"
-author_homepage = "https://www.imalan1.cn"
+author_homepage = "https://dongkcs.com/home.html"
 description = "东的Wiki站点"
 key_words = ['Maverick', '东', 'Galileo', 'wiki']
 language = 'zh-CN'
@@ -34,8 +34,8 @@ language = 'zh-CN'
 valine = {
     "enable": True,
     "el": '#vcomments',
-    "appId": "2to78D9NRkvN8CTRtIneOcXL-gzGzoHsz",
-    "appKey": "ws5n5WDCDFVg5rhvqPceRiuA",
+    "appId": "ljztI4DvV8vVVWj60w65L8BO-gzGzoHsz",
+    "appKey": "fGSVeiHTEgsJdU8LS8HgG9OE",
     "visitor": True,
     "recordIP": True,
     "placeholder": "请不吝赐教"
@@ -44,28 +44,28 @@ valine = {
 external_links = [
     {
         "name": "TRIPLE NULL",
-        "url": "https://www.imalan.cn",
+        "url": "https://dongkcs.com/home.html",
         "brief": "三是虚指。至于是哪三无，我唔知。"
     },
     {
         "name": "BLOG",
-        "url": "https://blog.imalan.cn",
-        "brief": "熊猫小A的博客。隶属于「三无计划」。"
+        "url": "https://dongkcs.com/",
+        "brief": "东的博客。隶属于「三无计划」。"
     },
     {
         "name": "LAB",
-        "url": "https://lab.imalan.cn",
-        "brief": "熊猫小A的实验室。隶属于「三无计划」。"
+        "url": "https://test",
+        "brief": "东的实验室。隶属于「三无计划」。"
     },
     {
         "name": "GITHUB",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/dongkcs",
         "brief": "My GitHub"
     },
     {
         "name": "CHANNEL",
-        "url": "https://t.me/triple_null",
-        "brief": "熊猫小A的广播。隶属于「三无计划」。"
+        "url": "https://t1.me/triple_null",
+        "brief": "东的广播。隶属于「三无计划」。"
     }
 ]
 nav = [
@@ -89,17 +89,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/test",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/dongkcs",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/3782948803/",
         "icon": "gi gi-weibo"
     }
 ]
@@ -125,8 +125,8 @@ head_addon = r'''
 '''
 
 footer_addon = r'''
-<a no-style href="http://beian.miit.gov.cn" target="_blank">京ICP备18000133号-1</a> | 
-<a no-style href="https://www.upyun.com" target="_blank">又拍云</a>
+<a no-style href="http://beian.miit.gov.cn" target="_blank">冀 ICP 备 20007952 号 - 1</a> | 
+<a no-style href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank">又拍云</a>
 '''
 
 body_addon = r'''
