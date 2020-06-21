@@ -3,12 +3,12 @@
     "short_name": "\u718a\u732b\u5c0fA",
     "icons": [
         {
-            "src": "/favicon.ico?v=PY43YeeEKx",
+            "src": "/favicon1.ico?v=PY43YeeEKx",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/favicon.ico?v=PY43YeeEKx",
+            "src": "/favicon1.ico?v=PY43YeeEKx",
             "sizes": "512x512",
             "type": "image/png"
         }
