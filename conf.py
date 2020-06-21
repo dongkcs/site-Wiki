@@ -22,7 +22,7 @@ for_manual_build_trigger = 1
 
 # 站点设置
 site_name = "無知識 | 三無計劃"
-site_logo = "${static_prefix}favicon.ico"
+site_logo = "${static_prefix}favicon1.ico"
 site_build_date = "2017-06-29T12:00+08:00"
 author = "东"
 email = "dongkcs@163.com"
